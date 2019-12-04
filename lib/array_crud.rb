@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   penguins=["rockhopper","emporor","king","chinstrap"]
-  chinstrap = penguins.pop
+  arrays! = penguins.pop
 end
 
 def remove_element_from_start_of_array(array)
