@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  penguins=["rockhopper","emporor","king","chinstrap"]
+  array=["wow","I","am",""]
   penguins.push("arrays!")
 end
 
