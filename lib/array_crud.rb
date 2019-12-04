@@ -42,5 +42,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   penguins=["rockhopper","emporor","king","chinstrap"]
-  penguins[1] = 
+  penguins[1] = "magel"
 end
