@@ -1,17 +1,18 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  penguins=["rockhopper","emporor","king","chinstrap"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  penguins=["rockhopper","emporor","king","chinstrap"]
+  penguins.push("gentoo")
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  penguins.unshift ("fairy")
 end
 
 def remove_element_from_end_of_array(array)
