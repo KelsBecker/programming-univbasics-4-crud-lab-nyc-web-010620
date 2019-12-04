@@ -37,7 +37,7 @@ end
 
 def retrieve_last_element_from_array(array)
   penguins=["rockhopper","emporor","king","chinstrap"]
-  
+  penguins[-1]
 end
 
 def update_element_from_index(array, index_number, element)
