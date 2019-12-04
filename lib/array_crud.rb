@@ -8,11 +8,11 @@ end
 
 def add_element_to_end_of_array(array, element)
   array=["wow","I","am","really","learning"]
-  penguins.push("arrays!")
+  array.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-  penguins=["rockhopper","emporor","king","chinstrap"]
+  array=["rockhopper","emporor","king","chinstrap"]
   penguins.unshift ("wow")
 end
 
