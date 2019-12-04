@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   array=["I","am","really","learning","Arrays!"]
-  array=penguins.pop
+  =penguins.pop
 end
 
 def remove_element_from_start_of_array(array)
